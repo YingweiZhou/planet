@@ -1,5 +1,4 @@
 1. hello world
 2. hello again
    hello hello
-3. hello halo
 4. modify again from person 'B'
